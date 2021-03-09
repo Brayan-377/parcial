@@ -1,4 +1,0 @@
-Nombre,edad,país
-Brayan,25,Colombia
-Angie,24,Colombia
-Camilo,23,colombia 
